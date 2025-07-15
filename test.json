@@ -1,0 +1,28 @@
+{
+  "name": "Switch Pro Custom",
+  "background": "background.png",
+  "buttons": [
+    { "name": "a",  "image": "a.png",  "x": 175, "y": 120 },
+    { "name": "b",  "image": "b.png",  "x": 145, "y": 145 },
+    { "name": "x",  "image": "x.png",  "x": 145, "y": 95 },
+    { "name": "y",  "image": "y.png",  "x": 115, "y": 120 },
+    { "name": "l",  "image": "l.png",  "x": 20,  "y": 0   },
+    { "name": "zl", "image": "zl.png", "x": 20,  "y": 20  },
+    { "name": "r",  "image": "r.png",  "x": 300, "y": 0   },
+    { "name": "zr", "image": "zr.png", "x": 300, "y": 20  },
+    { "name": "plus",  "image": "plus.png",  "x": 165, "y": 65  },
+    { "name": "minus", "image": "minus.png", "x": 115, "y": 65  }
+  ],
+  "sticks": [
+    { "name": "leftStick",  "image": "left_stick.png",  "x": 40,  "y": 100 },
+    { "name": "rightStick", "image": "right_stick.png", "x": 240, "y": 100 }
+  ],
+  "dpad": [
+    { "name": "up",    "image": "up.png",    "x": 100, "y": 90  },
+    { "name": "down",  "image": "down.png",  "x": 100, "y": 130 },
+    { "name": "left",  "image": "left.png",  "x": 80,  "y": 110 },
+    { "name": "right", "image": "right.png", "x": 120, "y": 110 }
+  ],
+  "analogSticks": true,
+  "scale": 1
+}
